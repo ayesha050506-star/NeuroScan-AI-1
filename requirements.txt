@@ -1,0 +1,8 @@
+opencv-python-headless
+streamlit>=1.30.0
+opencv-python-headless
+numpy
+joblib
+scikit-image
+pydicom
+Pillow
