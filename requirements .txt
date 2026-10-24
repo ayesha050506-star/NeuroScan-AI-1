@@ -1,3 +1,4 @@
+tensorflow
 opencv-python-headless
 streamlit==YOUR_STREAMLIT_VERSION
 tensorflow==YOUR_TENSORFLOW_VERSION
